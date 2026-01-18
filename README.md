@@ -120,5 +120,5 @@ El objetivo fue aplicar conocimientos teóricos a problemas prácticos reales, d
 
 
 
-Gustavo Álvarez | @gusalsan 
+Gustavo Álvarez | @gusalsan |
 Bootcamp Ciberseguridad - KeepCoding | NOVIEMBRE 2025 - JULIO 2026
