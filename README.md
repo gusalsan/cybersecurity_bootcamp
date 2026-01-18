@@ -78,7 +78,7 @@ El objetivo fue aplicar conocimientos teóricos a problemas prácticos reales, d
     - Uso: AES, Both Encrypt/Decrypt, exportable bajo clave no confiable  
     - Tipo: Symmetric Key for Data Encryption
 
-## Herramientas utilizadas
+### Herramientas utilizadas
 
 - Python + librería `cryptography`  
 - CyberChef / XOR Calculator online  
@@ -87,12 +87,12 @@ El objetivo fue aplicar conocimientos teóricos a problemas prácticos reales, d
 
   
 
-MODULO 2: CIBERSEGURIDAD 101
-📄 Auditoría WebGoat - Informe Breve
+## MODULO 2: CIBERSEGURIDAD 101
+**Auditoría WebGoat - Informe Breve**
 
-Alcance: Evaluación de seguridad básica de la aplicación vulnerable WebGoat 8.1.0 en entorno local controlado.
+**Alcance**: Evaluación de seguridad básica de la aplicación vulnerable WebGoat 8.1.0 en entorno local controlado.
 
-Hallazgos principales: Múltiples vulnerabilidades del OWASP Top 10 explotadas con éxito:
+**Hallazgos principales**: Múltiples vulnerabilidades del OWASP Top 10 explotadas con éxito:
 
     Inyección SQL (Extracción de datos y modificación del esquema)
 
@@ -104,7 +104,7 @@ Hallazgos principales: Múltiples vulnerabilidades del OWASP Top 10 explotadas c
 
     Componentes Vulnerables (Explotación de jQuery UI 1.10.4)
 
-Metodología: Enfoque estándar de pruebas de penetración:
+**Metodología**: Enfoque estándar de pruebas de penetración:
 
     Reconocimiento (nmap, Wappalyzer, dirb)
 
@@ -112,9 +112,9 @@ Metodología: Enfoque estándar de pruebas de penetración:
 
     Documentación (Hallazgos técnicos y estrategias de mitigación)
 
-Herramientas utilizadas: Burp Suite, nmap, Wappalyzer, dirb, pruebas manuales en navegador.
+**Herramientas utilizadas**: Burp Suite, nmap, Wappalyzer, dirb, pruebas manuales en navegador.
 
-Conclusión clave: Demuestra cómo vulnerabilidades web básicas pueden encadenarse para comprometer una aplicación completa, resaltando la importancia crítica de la validación de entrada, mecanismos de autenticación seguros y mantener las dependencias actualizadas.
+**Conclusión clave**: Demuestra cómo vulnerabilidades web básicas pueden encadenarse para comprometer una aplicación completa, resaltando la importancia crítica de la validación de entrada, mecanismos de autenticación seguros y mantener las dependencias actualizadas.
 
 
 
