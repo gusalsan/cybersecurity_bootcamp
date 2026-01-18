@@ -85,6 +85,8 @@ El objetivo fue aplicar conocimientos teóricos a problemas prácticos reales, d
 - pyjwt para JWT  
 - Herramientas de keystore y PGP
 
+  
+
 MODULO 2: CIBERSEGURIDAD 101
 📄 Auditoría WebGoat - Informe Breve
 
