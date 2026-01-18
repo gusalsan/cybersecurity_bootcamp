@@ -1,10 +1,7 @@
 CIBERSECURITY BOOTCAMP
 
 MODULO 1: CRIPTOGRAFIA
-
-# Práctica Criptografía 1 - Bootcamp de Ciberseguridad
-
-Este repositorio contiene mis soluciones completas y explicaciones detalladas de la **Práctica de Criptografía 1** del Bootcamp de Ciberseguridad (KeepCoding).  
+  
 La práctica abarca conceptos clave de criptografía simétrica y asimétrica, gestión segura de claves, hashing, HMAC, JWT, firmas digitales, derivación de claves y análisis de bloques TR31.
 
 El objetivo fue aplicar conocimientos teóricos a problemas prácticos reales, demostrando comprensión de confidencialidad, integridad, autenticación y protección contra ataques comunes.
