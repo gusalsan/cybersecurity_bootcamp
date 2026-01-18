@@ -1,4 +1,4 @@
-# CIBERSECURITY BOOTCAMP
+# CYBERSECURITY BOOTCAMP
 
 ## MODULO 1: CRIPTOGRAFIA
   
@@ -6,7 +6,7 @@ La práctica abarca conceptos clave de criptografía simétrica y asimétrica, g
 
 El objetivo fue aplicar conocimientos teóricos a problemas prácticos reales, demostrando comprensión de confidencialidad, integridad, autenticación y protección contra ataques comunes.
 
-## Ejercicios resueltos
+### Ejercicios resueltos
 
 1. **Disociación de claves con XOR**
    - Clave fija en código: `B1EF2ACFE2BAEEFF`  
