@@ -8,7 +8,7 @@ El objetivo fue aplicar conocimientos teóricos a problemas prácticos reales, d
 
 ## Ejercicios resueltos
 
-1. ****Disociación de claves con XOR****  
+1. **Disociación de claves con XOR**
    - Clave fija en código: `B1EF2ACFE2BAEEFF`  
    - Clave final deseada en desarrollo: `91BA13BA21AABB12`  
    - Valor introducido por Key Manager en properties: `20553975c31055ed`  
