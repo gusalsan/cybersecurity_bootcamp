@@ -1,6 +1,6 @@
 CIBERSECURITY BOOTCAMP
 
-*MODULO 1: CRIPTOGRAFIA*
+***MODULO 1: CRIPTOGRAFIA***
   
 La práctica abarca conceptos clave de criptografía simétrica y asimétrica, gestión segura de claves, hashing, HMAC, JWT, firmas digitales, derivación de claves y análisis de bloques TR31.
 
