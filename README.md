@@ -1,6 +1,6 @@
-CIBERSECURITY BOOTCAMP
+**CIBERSECURITY BOOTCAMP**
 
-***MODULO 1: CRIPTOGRAFIA***
+**MODULO 1: CRIPTOGRAFIA**
   
 La práctica abarca conceptos clave de criptografía simétrica y asimétrica, gestión segura de claves, hashing, HMAC, JWT, firmas digitales, derivación de claves y análisis de bloques TR31.
 
@@ -8,7 +8,7 @@ El objetivo fue aplicar conocimientos teóricos a problemas prácticos reales, d
 
 ## Ejercicios resueltos
 
-1. **Disociación de claves con XOR**  
+1. ****Disociación de claves con XOR****  
    - Clave fija en código: `B1EF2ACFE2BAEEFF`  
    - Clave final deseada en desarrollo: `91BA13BA21AABB12`  
    - Valor introducido por Key Manager en properties: `20553975c31055ed`  
