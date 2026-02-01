@@ -116,7 +116,7 @@ El objetivo fue aplicar conocimientos teóricos a problemas prácticos reales, d
 
 **Conclusión clave**: Demuestra cómo vulnerabilidades web básicas pueden encadenarse para comprometer una aplicación completa, resaltando la importancia crítica de la validación de entrada, mecanismos de autenticación seguros y mantener las dependencias actualizadas.
 
-## MODULO 3:  Blue Team, montaje de una Infraestructura de Red
+## MODULO 3:  BLUE TEAM, montaje de una Infraestructura de Red
 
 Esta práctica consiste en construir un laboratorio de ciberseguridad Blue Team utilizando **pfSense** como firewall/router central en VirtualBox. El objetivo es crear una red segmentada con aislamiento entre zonas (LAN, DMZ y DMZ2), desplegar servicios expuestos de forma controlada y monitorear amenazas con herramientas de detección.
 
@@ -133,7 +133,7 @@ LAN          DMZ         DMZ2
 Agente      Honeypot       o solo uno)
 Elastic)      Cowrie)
 
-text- **WAN**: Conexión a Internet (adaptador puente).
+- **WAN**: Conexión a Internet (adaptador puente).
 - **LAN**: Red interna segura (192.168.100.0/24) → Windows 10 + agente Elastic.
 - **DMZ**: Zona expuesta (192.168.200.0/24) → Servidor web Apache y/o honeypot Cowrie.
 - **DMZ2**: Zona de monitoreo (192.168.250.0/24) → Suricata (IDS) o alternativa.
