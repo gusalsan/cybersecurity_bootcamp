@@ -116,7 +116,7 @@ El objetivo fue aplicar conocimientos teóricos a problemas prácticos reales, d
 
 **Conclusión clave**: Demuestra cómo vulnerabilidades web básicas pueden encadenarse para comprometer una aplicación completa, resaltando la importancia crítica de la validación de entrada, mecanismos de autenticación seguros y mantener las dependencias actualizadas.
 
-## MODULO 3:  BLUE TEAM, montaje de una Infraestructura de Red
+## MODULO 3:  BLUE TEAM, montaje de una infraestructura de red
 
 Esta práctica consiste en construir un laboratorio de ciberseguridad Blue Team utilizando **pfSense** como firewall/router central en VirtualBox. El objetivo es crear una red segmentada con aislamiento entre zonas (LAN, DMZ y DMZ2), desplegar servicios expuestos de forma controlada y monitorear amenazas con herramientas de detección.
 
