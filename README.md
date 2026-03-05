@@ -225,14 +225,6 @@ Conseguí **acceso root** por varias vías diferentes:
 - **Puerto 5432** → PostgreSQL (Meterpreter + escalada)
 - **Puerto 80** → DVWA (Command Injection, Reverse Shell, SQLi, File Inclusion y XSS)
 
-## Estructura del repositorio
-/
-├── Escaneos/           → Resultados de Nmap y enumeración
-├── Evidencias/         → Capturas de cada explotación
-├── Informe/            → Informe completo en PDF y Word
-├── Explotaciones/      → Scripts y payloads usados
-└── README.md
-text## Conclusiones
 
 Esta práctica me permitió ver en la práctica cómo configuraciones por defecto, backdoors y servicios antiguos pueden comprometer completamente un sistema. Destaca especialmente la peligrosidad de:
 - NFS sin restricciones
