@@ -180,7 +180,7 @@ Creamos políticas en Elastic Cloud para Linux (Suricata + Custom Logs para Cowr
 
 Esta infraestructura simula un entorno real con segmentación, exposición controlada y monitoreo. Los logs de Suricata, Cowrie y Windows se envían a Elastic para análisis. Para más detalles y capturas consulta el PDF original adjunto en el repositorio.
 
-## Modulo 4: Pentesting
+## Modulo 4: PENTESTING
 
 ### Práctica Pentesting - Metasploitable 2
 
