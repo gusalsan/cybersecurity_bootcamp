@@ -180,7 +180,64 @@ Creamos políticas en Elastic Cloud para Linux (Suricata + Custom Logs para Cowr
 
 Esta infraestructura simula un entorno real con segmentación, exposición controlada y monitoreo. Los logs de Suricata, Cowrie y Windows se envían a Elastic para análisis. Para más detalles y capturas consulta el PDF original adjunto en el repositorio.
 
+## Modulo 4: Pentesting
 
+### Práctica Pentesting - Metasploitable 2
+
+Proyecto final del módulo de Pentesting en el que realicé un reconocimiento completo y explotación de la máquina **Metasploitable 2**.
+
+### Objetivo
+
+Realizar reconocimiento, enumeración y explotación tanto a nivel de infraestructura como de aplicaciones web, consiguiendo el mayor número posible de accesos y vulnerabilidades.
+
+### Entorno
+
+- **Máquina atacante**: Kali Linux 
+- **Máquina objetivo**: Metasploitable 2 
+
+## Herramientas utilizadas
+
+- Nmap
+- Metasploit Framework
+- Netcat
+- Hydra
+- John the Ripper
+- Gobuster
+- sqlmap
+- Cadaver (WebDAV)
+- vncviewer
+
+## Resumen de hallazgos principales
+
+Conseguí **acceso root** por varias vías diferentes:
+
+### Críticas
+- **Puerto 1524** → Bindshell directa (root inmediato con `nc`)
+- **Puerto 21** → Backdoor vsftpd 2.3.4 (Metasploit)
+- **Puerto 3632** → RCE en distccd (Metasploit)
+- **Puerto 2049** → NFS root export sin restricciones (montaje completo del sistema)
+
+### Altas
+- **Puerto 22** → Clave privada SSH expuesta
+- **Puerto 5900** → VNC con contraseña "password"
+- **Puerto 23** → Telnet con credenciales débiles
+- **Puerto 3306** → MySQL root sin contraseña
+- **Puerto 5432** → PostgreSQL (Meterpreter + escalada)
+- **Puerto 80** → DVWA (Command Injection, Reverse Shell, SQLi, File Inclusion y XSS)
+
+## Estructura del repositorio
+/
+├── Escaneos/           → Resultados de Nmap y enumeración
+├── Evidencias/         → Capturas de cada explotación
+├── Informe/            → Informe completo en PDF y Word
+├── Explotaciones/      → Scripts y payloads usados
+└── README.md
+text## Conclusiones
+
+Esta práctica me permitió ver en la práctica cómo configuraciones por defecto, backdoors y servicios antiguos pueden comprometer completamente un sistema. Destaca especialmente la peligrosidad de:
+- NFS sin restricciones
+- Backdoors intencionales
+- Credenciales por defecto
 
 Gustavo Álvarez | @gusalsan |
 Bootcamp Ciberseguridad - KeepCoding | NOVIEMBRE 2025 - JULIO 2026
