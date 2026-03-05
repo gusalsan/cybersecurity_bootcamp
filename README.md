@@ -195,7 +195,7 @@ Realizar reconocimiento, enumeración y explotación tanto a nivel de infraestru
 - **Máquina atacante**: Kali Linux 
 - **Máquina objetivo**: Metasploitable 2 
 
-## Herramientas utilizadas
+### Herramientas utilizadas
 
 - Nmap
 - Metasploit Framework
@@ -207,17 +207,17 @@ Realizar reconocimiento, enumeración y explotación tanto a nivel de infraestru
 - Cadaver (WebDAV)
 - vncviewer
 
-## Resumen de hallazgos principales
+### Resumen de hallazgos principales
 
 Conseguí **acceso root** por varias vías diferentes:
 
-### Críticas
+#### Críticas
 - **Puerto 1524** → Bindshell directa (root inmediato con `nc`)
 - **Puerto 21** → Backdoor vsftpd 2.3.4 (Metasploit)
 - **Puerto 3632** → RCE en distccd (Metasploit)
 - **Puerto 2049** → NFS root export sin restricciones (montaje completo del sistema)
 
-### Altas
+#### Altas
 - **Puerto 22** → Clave privada SSH expuesta
 - **Puerto 5900** → VNC con contraseña "password"
 - **Puerto 23** → Telnet con credenciales débiles
