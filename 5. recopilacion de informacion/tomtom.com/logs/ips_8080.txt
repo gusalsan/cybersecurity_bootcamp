@@ -1,0 +1,13 @@
+Discovered open port 8080/tcp on 3.5.138.85                                    
+Discovered open port 8080/tcp on 216.198.54.11                                 
+Discovered open port 8080/tcp on 3.5.75.85                                     
+Discovered open port 8080/tcp on 3.5.71.71                                     
+Discovered open port 8080/tcp on 3.5.138.173                                   
+Discovered open port 8080/tcp on 3.5.135.223                                   
+Discovered open port 8080/tcp on 216.198.53.11                                 
+Discovered open port 8080/tcp on 3.5.121.115                                   
+Discovered open port 8080/tcp on 104.18.38.43                                  
+Discovered open port 8080/tcp on 172.64.149.213                                
+Discovered open port 8080/tcp on 3.5.67.247                                    
+Discovered open port 8080/tcp on 3.5.75.122                                    
+Discovered open port 8080/tcp on 3.5.137.210                                   

@@ -1,0 +1,145 @@
+[ * ] Fingerprints found; checking integrity with an upstream
+[ * ] Loaded 73 targets
+[ * ] Loaded 76 fingerprints
+[ No ] HTTPS by default (--https)
+[ 10 ] Concurrent requests (--concurrency)
+[ No ] Check target only if SSL is valid (--verify_ssl)
+[ 10 ] HTTP request timeout (in seconds) (--timeout)
+[ No ] Show only potentially vulnerable subdomains (--hide_fails)
+-----------------
+[ [32mVULNERABLE[0m ]  -  home.tomtom.com  [ Uptimerobot ]
+[ [34mDISCUSSION[0m ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ [34mDOCUMENTATION[0m ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  dev.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  community.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  engage.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  groups.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  docs.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  create.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  events.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  help.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  api.tomtom.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  banner.tomtom.com  [ Gemfury ]
+[ [34mDISCUSSION[0m ]  -  [Issue #154](https://github.com/EdOverflow/can-i-take-over-xyz/issues/154)
+[ [34mDOCUMENTATION[0m ]  -  [Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  intouch.tomtom.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  images.tomtom.com  [ HubSpot ]
+[ [34mDISCUSSION[0m ]  -  [Issue #59](https://github.com/EdOverflow/can-i-take-over-xyz/issues/59)
+[ [34mDOCUMENTATION[0m ]  -  
+-----------------
+-----------------
+[ [32mVULNERABLE[0m ]  -  click.tomtom.com  [ Cargo Collective ]
+[ [34mDISCUSSION[0m ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ [34mDOCUMENTATION[0m ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ [32mVULNERABLE[0m ]  -  devforum.tomtom.com  [ Cargo Collective ]
+[ [34mDISCUSSION[0m ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ [34mDOCUMENTATION[0m ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  autodiscover.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  demo.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  beat.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  bo.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  enterpriseenrollment.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  cdn.sa.services.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  maps.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  developer.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  gms.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  beta.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  crl.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  dashboard.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  my.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  plan.tomtom.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  more.tomtom.com  [ Gemfury ]
+[ [34mDISCUSSION[0m ]  -  [Issue #154](https://github.com/EdOverflow/can-i-take-over-xyz/issues/154)
+[ [34mDOCUMENTATION[0m ]  -  [Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)
+-----------------
+-----------------
+[ [32mVULNERABLE[0m ]  -  breakfree.tomtom.com  [ Gemfury ]
+[ [34mDISCUSSION[0m ]  -  [Issue #154](https://github.com/EdOverflow/can-i-take-over-xyz/issues/154)
+[ [34mDOCUMENTATION[0m ]  -  [Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  aa.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  onboarder.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  ja.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  media.tomtom.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  mobility.tomtom.com  [ Gemfury ]
+[ [34mDISCUSSION[0m ]  -  [Issue #154](https://github.com/EdOverflow/can-i-take-over-xyz/issues/154)
+[ [34mDOCUMENTATION[0m ]  -  [Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  compass.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  engineering.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  mcp.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  post.tomtom.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  oauth.tomtom.com  [ Cargo Collective ]
+[ [34mDISCUSSION[0m ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ [34mDOCUMENTATION[0m ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+-----------------
+[ [32mVULNERABLE[0m ]  -  plus.tomtom.com  [ Uptimerobot ]
+[ [34mDISCUSSION[0m ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ [34mDOCUMENTATION[0m ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+-----------------
+[ [32mVULNERABLE[0m ]  -  iphone.tomtom.com  [ Gemfury ]
+[ [34mDISCUSSION[0m ]  -  [Issue #154](https://github.com/EdOverflow/can-i-take-over-xyz/issues/154)
+[ [34mDOCUMENTATION[0m ]  -  [Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  mapmaker.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  register.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  opensource.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  www.tomtom.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  sweet.tomtom.com  [ Uptimerobot ]
+[ [34mDISCUSSION[0m ]  -  [Issue #45](https://github.com/EdOverflow/can-i-take-over-xyz/issues/45)
+[ [34mDOCUMENTATION[0m ]  -  [Uptimerobot-Sub-takeover](https://exploit.linuxsec.org/uptimerobot-com-custom-domain-subdomain-takeover/)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  move.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  rm.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  thebeat.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  plaza.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  office365.tomtom.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  promo.tomtom.com  [ Gemfury ]
+[ [34mDISCUSSION[0m ]  -  [Issue #154](https://github.com/EdOverflow/can-i-take-over-xyz/issues/154)
+[ [34mDOCUMENTATION[0m ]  -  [Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  preprod.tomtom.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  rss.tomtom.com  [ Gemfury ]
+[ [34mDISCUSSION[0m ]  -  [Issue #154](https://github.com/EdOverflow/can-i-take-over-xyz/issues/154)
+[ [34mDOCUMENTATION[0m ]  -  [Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  academy.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  msoid.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  status.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  traffic.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  repository.tomtom.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  mol.tomtom.com  [ Gemfury ]
+[ [34mDISCUSSION[0m ]  -  [Issue #154](https://github.com/EdOverflow/can-i-take-over-xyz/issues/154)
+[ [34mDOCUMENTATION[0m ]  -  [Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  ts.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  learn.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  shop.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  ocsp.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  support.tomtom.com
+-----------------
+[ [32mVULNERABLE[0m ]  -  training.tomtom.com  [ Gemfury ]
+[ [34mDISCUSSION[0m ]  -  [Issue #154](https://github.com/EdOverflow/can-i-take-over-xyz/issues/154)
+[ [34mDOCUMENTATION[0m ]  -  [Article](https://khaledibnalwalid.wordpress.com/2020/06/25/gemfury-subdomain-takeover/)
+-----------------
+[ [31mNOT VULNERABLE[0m ]  -  download.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  corporate.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  assets.tomtom.com
+[ [31mNOT VULNERABLE[0m ]  -  annualreport2014.tomtom.com
+[ [31mHTTP ERROR[0m ]  -  ft.tomtom.com
