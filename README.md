@@ -231,5 +231,56 @@ Esta práctica me permitió ver en la práctica cómo configuraciones por defect
 - Backdoors intencionales
 - Credenciales por defecto
 
+
+## MODULO 5: RECOPILACION DE LA INFORMACION
+
+Ejercicio práctico completo de **footprinting**, **fingerprinting** y **OSINT** realizado sobre el dominio **tomtom.com** como parte de mi formación en ciberseguridad (Blue Team / Defensive Security).
+
+**Objetivo principal**  
+Mapear la superficie de ataque visible utilizando **solo fuentes públicas** y sin interacción intrusiva ni explotación.
+
+### Fases realizadas
+
+1. **Footprinting y enumeración de infraestructura**  
+   - Rangos IP (RIPE Database)  
+   - Subdominios vía Certificate Transparency (crt.sh, ctfr), DNS inverso (dnsx), brute-force (shuffledns), crawling (katana), URLs históricas (gau)  
+   - Herramientas: mapcidr, dnsx, shuffledns, katana, ctfr, gau, cero
+
+2. **Fingerprinting y verificación**  
+   - Puertos abiertos (nmap, masscan)  
+   - Tecnologías y WAF (wafw00f, httpx)  
+   - Vulnerabilidades (nuclei, OpenVAS)  
+   - Configuración SSL/TLS (Qualys SSL Labs → calificación A)  
+   - Takeover (subzy → falsos positivos confirmados en Azure)  
+   - Metadatos (ExifRay en imágenes/PDFs públicos)
+
+3. **OSINT**  
+   - Empleados y perfiles (Maltego + LinkedIn)  
+   - Correos y brechas (HIBP)  
+   - Configuración de correo (DMARC/SPF/DKIM vía dmarcian)
+
+### Hallazgos clave
+
+- Superficie amplia pero bien protegida (WAF Akamai/Cloudflare en endpoints principales).  
+- TLS moderno y seguro (TLS 1.3 prioritario, sin vulnerabilidades críticas).  
+- Ninguna vulnerabilidad explotable detectada.  
+- Exposición mínima en OSINT (brechas antiguas en correos personales, DMARC en quarantine).  
+- Un endpoint interesante con Basic Auth (ft.tomtom.com), pero protegido y fuera de scope.
+
+### Herramientas principales utilizadas
+
+- Footprinting: RIPE, crt.sh, ctfr, shuffledns, katana, gau, cero  
+- Fingerprinting: nmap, masscan, httpx, wafw00f, nuclei, OpenVAS, Qualys SSL Labs, subzy  
+- OSINT: Maltego, LinkedIn, Have I Been Pwned, dmarcian  
+- Otros: ExifRay (metadatos), ffuf (fuzzing sin resultados)
+
+### Notas importantes
+
+- Todo el trabajo se realizó de forma **ética y pasiva**, sin explotación, fuerza bruta activa ni interacción no autorizada.  
+- Proyecto educativo, no destinado a reportar vulnerabilidades reales ni a bug bounty.
+
+
+¡Gracias por visitar! Feedback bienvenido ✌️
+
 Gustavo Álvarez | @gusalsan |
 Bootcamp Ciberseguridad - KeepCoding | NOVIEMBRE 2025 - JULIO 2026
