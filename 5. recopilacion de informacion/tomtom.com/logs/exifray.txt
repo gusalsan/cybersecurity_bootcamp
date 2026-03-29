@@ -1,0 +1,23 @@
+[Software] Adobe PDF library 16.07
+[Software] Adobe Illustrator 26.3 (Macintosh)
+[Software] Adobe PDF Library 17.0
+[Software] Adobe InDesign 18.1 (Macintosh)
+[Software] Adobe PDF Library 6.0
+[Software] Adobe InDesign CS (3.0)
+[Users] Claire Walker
+[Software] Microsoft Word 2010
+[Software] Adobe PDF Library 15.0
+[Software] Akamai Image Manager
+[Software] Next.js
+[Software] Adobe InDesign 18.0 (Macintosh)
+[Users] dao
+[Software] Acrobat Distiller 7.0.5 (Windows)
+[Software] Adobe Photoshop Version 9.0x196
+[Software] Acrobat Web Capture 6.0
+[Software] Acrobat Distiller 8.1.0 (Windows)
+[Software] FrameMaker 8.0
+[Software] tomtom
+[Software] Adobe PDF library 9.00
+[Software] Adobe Illustrator CS4
+[Software] Microsoft® Word 2010
+[Software] Adobe Photoshop 27.2 (Macintosh)

@@ -1,0 +1,11 @@
+www.tomtom.com
+media.tomtom.com
+developer.tomtom.com
+help.tomtom.com
+my.tomtom.com
+download.tomtom.com
+docs.tomtom.com
+corporate.tomtom.com
+move.tomtom.com
+mapmaker.tomtom.com
+status.tomtom.com

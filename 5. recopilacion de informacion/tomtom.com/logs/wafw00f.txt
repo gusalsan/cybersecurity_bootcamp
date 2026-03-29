@@ -1,0 +1,256 @@
+
+                   [1;97m______
+                  [1;97m/      \
+                 [1;97m(  Woof! )
+                  [1;97m\  ____/                      [1;91m)
+                  [1;97m,,                           [1;91m) ([1;93m_
+             [1;93m.-. [1;97m-    [1;92m_______                 [1;91m( [1;93m|__|
+            [1;93m()``; [1;92m|==|_______)                [1;91m.)[1;93m|__|
+            [1;93m/ ('        [1;92m/|\                  [1;91m(  [1;93m|__|
+        [1;93m(  /  )       [1;92m / | \                  [1;91m. [1;93m|__|
+         [1;93m\(_)_))      [1;92m/  |  \                   [1;93m|__|[0m
+
+                    [1;96m~ WAFW00F : [1;94mv2.3.1 ~[1;97m
+    The Web Application Firewall Fingerprinting Toolkit
+    [0m
+[*] Checking https://dev.tomtom.com
+[+] The site [1;94mhttps://dev.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://help.tomtom.com
+[+] The site [1;94mhttps://help.tomtom.com[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://events.tomtom.com
+[+] The site [1;94mhttps://events.tomtom.com[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://api.tomtom.com
+[+] The site [1;94mhttps://api.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://groups.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://ft.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://engage.tomtom.com
+[+] The site [1;94mhttps://engage.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://home.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://docs.tomtom.com
+[+] The site [1;94mhttps://docs.tomtom.com[0m is behind [1;96mAzure Front Door (Microsoft)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://community.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://banner.tomtom.com
+[+] The site [1;94mhttps://banner.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://create.tomtom.com
+[+] The site [1;94mhttps://create.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://intouch.tomtom.com
+[+] Generic Detection results:
+[*] The site https://intouch.tomtom.com seems to be behind a WAF or some sort of security solution
+[~] Reason: The response was different when the request wasn't made from a browser.
+Normal response code is "200", while the response code to a modified request is "403"
+[~] Number of requests: 4
+[*] Checking https://dashboard.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://demo.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://beta.tomtom.com
+[+] The site [1;94mhttps://beta.tomtom.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://devforum.tomtom.com
+[+] Generic Detection results:
+[*] The site https://devforum.tomtom.com seems to be behind a WAF or some sort of security solution
+[~] Reason: The response was different when the request wasn't made from a browser.
+Normal response code is "403", while the response code to a modified request is "200"
+[~] Number of requests: 4
+[*] Checking https://images.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://beat.tomtom.com
+[+] Generic Detection results:
+[*] The site https://beat.tomtom.com seems to be behind a WAF or some sort of security solution
+[~] Reason: The response was different when the request wasn't made from a browser.
+Normal response code is "200", while the response code to a modified request is "403"
+[~] Number of requests: 4
+[*] Checking https://click.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://autodiscover.tomtom.com
+[*] Checking https://enterpriseenrollment.tomtom.com
+[+] The site [1;94mhttps://enterpriseenrollment.tomtom.com[0m is behind [1;96mAzure Front Door (Microsoft)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://bo.tomtom.com
+[+] The site [1;94mhttps://bo.tomtom.com[0m is behind [1;96mCacheWall (Varnish)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://cdn.sa.services.tomtom.com
+[+] The site [1;94mhttps://cdn.sa.services.tomtom.com[0m is behind [1;96mCacheWall (Varnish)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://gms.tomtom.com
+[+] The site [1;94mhttps://gms.tomtom.com[0m is behind [1;96mCacheWall (Varnish)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://annualreport2014.tomtom.com
+[+] The site [1;94mhttps://annualreport2014.tomtom.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://ja.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://maps.tomtom.com
+[+] The site [1;94mhttps://maps.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://compass.tomtom.com
+[+] The site [1;94mhttps://compass.tomtom.com[0m is behind [1;96mBIG-IP Local Traffic Manager (F5 Networks)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://developer.tomtom.com
+[+] The site [1;94mhttps://developer.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://crl.tomtom.com
+[*] Checking https://aa.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://engineering.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://more.tomtom.com
+[+] The site [1;94mhttps://more.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://my.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://breakfree.tomtom.com
+[+] The site [1;94mhttps://breakfree.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://plan.tomtom.com
+[+] The site [1;94mhttps://plan.tomtom.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://onboarder.tomtom.com
+[+] The site [1;94mhttps://onboarder.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mobility.tomtom.com
+[+] The site [1;94mhttps://mobility.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://oauth.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://mcp.tomtom.com
+[+] The site [1;94mhttps://mcp.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://media.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://mapmaker.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://iphone.tomtom.com
+[+] The site [1;94mhttps://iphone.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://post.tomtom.com
+[+] The site [1;94mhttps://post.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://office365.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://opensource.tomtom.com
+[+] The site [1;94mhttps://opensource.tomtom.com[0m is behind [1;96mFastly (Fastly CDN)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://plus.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://academy.tomtom.com
+[+] The site [1;94mhttps://academy.tomtom.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://plaza.tomtom.com
+[*] Checking https://move.tomtom.com
+[+] The site [1;94mhttps://move.tomtom.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://rm.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://register.tomtom.com
+[*] Checking https://www.tomtom.com
+[+] The site [1;94mhttps://www.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://sweet.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://learn.tomtom.com
+[+] The site [1;94mhttps://learn.tomtom.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://repository.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://status.tomtom.com
+[+] The site [1;94mhttps://status.tomtom.com[0m is behind [1;96mBIG-IP Local Traffic Manager (F5 Networks)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://promo.tomtom.com
+[+] The site [1;94mhttps://promo.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://thebeat.tomtom.com
+[+] Generic Detection results:
+[*] The site https://thebeat.tomtom.com seems to be behind a WAF or some sort of security solution
+[~] Reason: The response was different when the request wasn't made from a browser.
+Normal response code is "200", while the response code to a modified request is "403"
+[~] Number of requests: 4
+[*] Checking https://rss.tomtom.com
+[+] The site [1;94mhttps://rss.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://support.tomtom.com
+[+] The site [1;94mhttps://support.tomtom.com[0m is behind [1;96mBIG-IP Local Traffic Manager (F5 Networks)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://preprod.tomtom.com
+[*] Checking https://ts.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://training.tomtom.com
+[+] The site [1;94mhttps://training.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://msoid.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://mol.tomtom.com
+[+] The site [1;94mhttps://mol.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://traffic.tomtom.com
+[+] The site [1;94mhttps://traffic.tomtom.com[0m is behind [1;96mShadow Daemon (Zecure)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://shop.tomtom.com
+[+] The site [1;94mhttps://shop.tomtom.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://download.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://assets.tomtom.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://corporate.tomtom.com
+[*] Checking https://ocsp.tomtom.com
